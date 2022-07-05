@@ -1,5 +1,6 @@
 // Asyc frena el javascript y hace que se lea de manera correcta.
 
+
 const n1 = () => {
  return 1;
 };
